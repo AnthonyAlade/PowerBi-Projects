@@ -19,7 +19,8 @@ This dashboard includes
 --- Favourite Programming language by survey takers
 
 ### Dashboard Screenshots
-   ![Dashboard_preview](https://github.com/user-attachments/assets/7e7d50ae-0176-4e73-baed-02c7a8feb943)
+
+ https://github.com/AnthonyAlade/PowerBi-Projects/blob/main/Dashboard_preview.png
 
 ### Tools and Technologies
 
