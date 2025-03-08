@@ -6,17 +6,23 @@ This portfolio demonstrates my ability to transform raw data into meaningful ins
 
 ### Project 1 Overview
 
-This PowerBi project analyzes survey data from data professionals. It explores trends in job roles, popular programming language, average salary and industry prefrences
+## Project Overview  
+This repository contains two key PowerBi projects:  
 
+1. This PowerBi project analyzes survey data from data professionals. It explores trends in job roles, popular programming language, average salary and industry prefrences
+
+2. This PowerBi project analyzes a supermarket sales dataset.  The dashboard visualizes  trends in customer behavior and product performance, and offers actionable insights to optimize sales strategies. 
+
+## Project 1:Data Professional Survey Analysis
 ### Dashboard preview
 
 This dashboard includes
 
---- Count and and Average age of survey takers
+- Count and and Average age of survey takers
 
---- Average Salary by Jobtitle and Country
+- Average Salary by Jobtitle and Country
 
---- Favourite Programming language by survey takers
+- Favourite Programming language by survey takers
 
 ### Dashboard Screenshots
 
@@ -24,25 +30,22 @@ This dashboard includes
 
 ### Tools and Technologies
 
---- PowerBi - Data Visualization and DashBoard Creation
+- PowerBi - Data Visualization and DashBoard Creation
 
---- Excel - initial data cleaning and formatting
+- Excel - initial data cleaning and formatting
 
-### Project 1 Overview
-
-This PowerBi project analyzes a supermarket sales dataset.  The dashboard visualizes  trends in customer behavior and product performance, and offers actionable insights to optimize sales strategies. 
-
+## Project 2 : Supermarket Sales Overview
 ### Dashboard preview
 
 This dashboard includes
 
---- Total Revenue Generated
+- Total Revenue Generated
 
---- Average Customer per hour
+- Average Customer per hour
 
---- Total revenue per day
+- Total revenue per day
 
---- Total revenue per productline
+- Total revenue per productline
 
 ### Dashboard Screenshots
 
@@ -50,17 +53,17 @@ This dashboard includes
 
 ### Tools and Technologies
 
---- PowerBi - Data Visualization and DashBoard Creation
+- PowerBi - Data Visualization and DashBoard Creation
 
---- Excel - initial data cleaning and formatting
+- Excel - initial data cleaning and formatting
 
 ### How to Use the Report
 
---- Clone this repository
+- Clone this repository
 
---- Download and install Power BI Desktop
+- Download and install Power BI Desktop
 
---- Open the .pbix files in Power BI Desktop
+- Open the .pbix files in Power BI Desktop
 
---- Explore the interactive dashboards
+- Explore the interactive dashboards
    
