@@ -48,6 +48,7 @@ This dashboard includes
 - Total revenue per productline
 
 ### Dashboard Screenshots
+https://github.com/AnthonyAlade/PowerBi-Projects/blob/main/Supermarket_Dashboard_preview%202.png
 
 
 
