@@ -28,6 +28,32 @@ This dashboard includes
 
 --- Excel - initial data cleaning and formatting
 
+### Project 1 Overview
+
+This PowerBi project analyzes a supermarket sales dataset.  The dashboard visualizes  trends in customer behavior and product performance, and offers actionable insights to optimize sales strategies. 
+
+### Dashboard preview
+
+This dashboard includes
+
+--- Total Revenue Generated
+
+--- Average Customer per hour
+
+--- Total revenue per day
+
+--- Total revenue per productline
+
+### Dashboard Screenshots
+
+
+
+### Tools and Technologies
+
+--- PowerBi - Data Visualization and DashBoard Creation
+
+--- Excel - initial data cleaning and formatting
+
 ### How to Use the Report
 
 --- Clone this repository
